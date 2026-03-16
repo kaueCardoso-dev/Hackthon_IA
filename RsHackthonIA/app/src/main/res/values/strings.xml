@@ -15,25 +15,8 @@
     <string name="pedidoNormal">Sem IA</string>
 
 
-    <!-- PREFERENCIAS ACTIVITY -->
+    <!-- PREFERENCIAS/EVITAR ACTIVITY -->
     <string name="preferencias">Escolha suas preferências!</string>
-
-
-    <!-- ITENS A EVITAR ACTIVITY -->
-    <string name="evitar">Escolha os itens que deseja evitar</string>
-
-    <!-- CATEGORIAS ACTIVITY -->
-    <string name="fazerPedido">Selecione o desejado!</string>
-    <string name="descricao">Os hambúgueres,bebidas e sobremesas mais deliciosos da região!</string>
-    <string name="burguers">Burguers</string>
-    <string name="bebidas">Bebidas</string>
-    <string name="sobremesas">Sobremesas</string>
-
-    <!-- BURGUERS ACTIVITY -->
-    <string name="burguer">Selecione o seu burguer!</string>
-    <string name="classic">Classic</string>
-    <string name="salada">X-salada</string>
-    <string name="xbacon">X-bacon</string>
     <string name="carne">Carne</string>
     <string name="frango">Frango</string>
     <string name="veg">Vegetariano</string>
@@ -49,6 +32,38 @@
     <string name="refri">Refrigerantes</string>
     <string name="chocolate">Chocolates</string>
     <string name="sorvete">Sorvetes</string>
+    <string name="pimenta">Pimenta</string>
+    <string name="evitar">Escolha os itens que deseja evitar</string>
+
+    <!-- CATEGORIAS ACTIVITY -->
+    <string name="fazerPedido">Selecione o desejado!</string>
+    <string name="descricao">Os hambúgueres,bebidas e sobremesas mais deliciosos da região!</string>
+    <string name="burguers">Burguers</string>
+    <string name="bebidas">Bebidas</string>
+    <string name="sobremesas">Sobremesas</string>
+
+    <!-- BURGUERS ACTIVITY -->
+    <string name="burguer">Selecione o seu burguer!</string>
+    <string name="classic">Classic</string>
+    <string name="supreme">Bacon Supreme</string>
+    <string name="barbecue">Barbecue Smash</string>
+    <string name="chicken">Chicken Crispy</string>
+    <string name="veggie">Veggie Power</string>
+    <string name="cheddarLove">Cheddar Lovers</string>
+    <string name="tropical">Tropical Burger</string>
+    <string name="picante">Picante Mexicano</string>
+    <string name="monstro">Duplo Monstro</string>
+    <string name="trufado">Gourmet Trufado</string>
+    <string name="classic_desc">Hambúrguer bovino 150g queijo cheddar alface tomate molho especial</string>
+    <string name="supreme_desc">Hambúrguer bovino 180g cheddar duplo bacon crocante maionese da casa</string>
+    <string name="barbecue_desc">Dois smash burgers queijo cheddar cebola caramelizada molho barbecue</string>
+    <string name="chicken_desc">Frango empanado crocante alface tomate maionese temperada</string>
+    <string name="veggie_desc">Hambúrguer de grão-de-bico alface tomate cebola roxa molho vegano</string>
+    <string name="cheddar_desc">Hambúrguer bovino 180g cheddar cremoso bacon cebola crispy</string>
+    <string name="tropical_desc">Hambúrguer bovino queijo prato bacon crocante abacaxi grelhado</string>
+    <string name="picante_desc">Hambúrguer bovino cheddar jalapeño guacamole molho chipotle</string>
+    <string name="monstro_desc">Dois hambúrgueres bovinos 150g cheddar duplo bacon alface molho especial</string>
+    <string name="trufado_desc">Hambúrguer bovino 180g queijo prato cogumelos salteados maionese trufada</string>
 
     <!-- STRINGS GLOBAIS -->
     <string name="adicionar">+</string>

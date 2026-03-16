@@ -5,6 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#EBEBEB"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -63,7 +64,7 @@
                 android:textColorLink="#673AB7"
                 android:textSize="16sp"
                 app:cornerRadius="5dp"
-                app:icon="@drawable/icons8_take_away_food_100"
+                app:icon="@drawable/ic_viagem"
                 app:iconPadding="12dp"
                 app:iconSize="46dp"
                 app:iconTint="@color/black"
@@ -83,7 +84,7 @@
                 android:textColor="#000000"
                 android:textSize="16sp"
                 app:cornerRadius="5dp"
-                app:icon="@drawable/icons8_comida_r_pida_100"
+                app:icon="@drawable/ic_fastfood"
                 app:iconPadding="12dp"
                 app:iconSize="46dp"
                 app:iconTint="#000000"

@@ -5,6 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:backgroundTint="#EBEBEB"
     android:textAlignment="center"
     tools:context=".PedidoActivity">
 
@@ -49,7 +50,7 @@
                 android:textColor="@color/black"
                 android:textSize="24sp"
                 app:cornerRadius="5dp"
-                app:icon="@drawable/icons8_c_rebro_100"
+                app:icon="@drawable/ic_cerebro"
                 app:iconPadding="12dp"
                 app:iconSize="54dp"
                 app:iconTint="@color/black"
@@ -67,7 +68,7 @@
                 android:textColor="@color/black"
                 android:textSize="24sp"
                 app:cornerRadius="5dp"
-                app:icon="@drawable/icons8_direita_90"
+                app:icon="@drawable/ic_seta"
                 app:iconPadding="12dp"
                 app:iconSize="54dp"
                 app:iconTint="@color/black"

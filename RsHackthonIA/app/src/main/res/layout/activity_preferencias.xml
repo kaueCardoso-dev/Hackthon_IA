@@ -5,6 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:backgroundTint="#EBEBEB"
     tools:context=".PreferenciasActivity">
 
     <LinearLayout
@@ -126,6 +127,19 @@
                     app:strokeWidth="2dp" />
 
                 <Button
+                    android:id="@+id/btnSucos"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:backgroundTint="#00FFFFFF"
+                    android:text="@string/sucos"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    app:cornerRadius="5dp"
+                    app:strokeColor="@color/black"
+                    app:strokeWidth="2dp" />
+
+                <Button
                     android:id="@+id/btnAlcool"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -144,6 +158,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:layout_marginStart="10dp"
                 android:orientation="vertical">
 
                 <Button
@@ -212,12 +227,12 @@
                     app:strokeWidth="2dp" />
 
                 <Button
-                    android:id="@+id/btnSucos"
+                    android:id="@+id/btnPimenta"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="10dp"
                     android:backgroundTint="#00FFFFFF"
-                    android:text="@string/sucos"
+                    android:text="@string/pimenta"
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     app:cornerRadius="5dp"

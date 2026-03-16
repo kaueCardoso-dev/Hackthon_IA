@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#EBEBEB"
     tools:context=".CategoriasActivity">
 
     <LinearLayout
@@ -55,7 +55,7 @@
             android:textAlignment="center"
             android:textColor="@color/black"
             app:cornerRadius="5dp"
-            app:icon="@drawable/icons8_burguer_96"
+            app:icon="@drawable/ic_burguer"
             app:iconSize="54dp"
             app:iconTint="@color/black"
             app:strokeColor="@color/black"
@@ -73,7 +73,7 @@
             android:textAlignment="center"
             android:textColor="@color/black"
             app:cornerRadius="5dp"
-            app:icon="@drawable/icons8_milk_shake_96"
+            app:icon="@drawable/ic_bebida"
             app:iconSize="54dp"
             app:iconTint="@color/black"
             app:strokeColor="@color/black"
@@ -89,7 +89,7 @@
             android:textAlignment="center"
             android:textColor="@color/black"
             app:cornerRadius="5dp"
-            app:icon="@drawable/icons8_sorvete_100"
+            app:icon="@drawable/ic_casquinha"
             app:iconSize="54dp"
             app:iconTint="@color/black"
             app:strokeColor="@color/black"
