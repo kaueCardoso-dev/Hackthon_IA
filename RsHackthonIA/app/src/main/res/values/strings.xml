@@ -65,7 +65,55 @@
     <string name="monstro_desc">Dois hambúrgueres bovinos 150g cheddar duplo bacon alface molho especial</string>
     <string name="trufado_desc">Hambúrguer bovino 180g queijo prato cogumelos salteados maionese trufada</string>
 
+    <!-- BEBIDAS ACTIVITY -->
+    <string name="bebida">Selecione sua bebida!</string>
+    <string name="laranja">Suco de Laranja</string>
+    <string name="abacaxi">Suco de Abacaxi com Hortelã</string>
+    <string name="maracuja">Suco de Maracujá</string>
+    <string name="coca">Coca Cola</string>
+    <string name="guarana">Guaraná</string>
+    <string name="sprite">Sprite</string>
+    <string name="cerveja">Cerveja Pilsen</string>
+    <string name="caipirinha">Caipirinha de Limão</string>
+    <string name="batida">Batida de Morango com Vodka</string>
+    <string name="vinho">Vinho Tinto Seco</string>
+    <string name="laranja_desc">Suco refrescante feito com laranjas frescas, servido gelado.</string>
+    <string name="abacaxi_desc">Combinação tropical de abacaxi batido com folhas de hortelã, leve e refrescante.</string>
+    <string name="maracuja_desc">Bebida gelada de sabor marcante, preparada com polpa de maracujá.</string>
+    <string name="coca_desc">Bebida gaseificada clássica, doce e servida bem gelada.</string>
+    <string name="guarana_desc">Refrigerante de sabor suave e levemente adocicado feito a partir do guaraná.</string>
+    <string name="sprite_desc">Bebida gaseificada com toque cítrico e refrescante de limão.</string>
+    <string name="cerveja_desc">Cerveja clara, leve e refrescante, ideal para acompanhar refeições.</string>
+    <string name="capirinha_desc">Drink tradicional preparado com limão, açúcar, gelo e cachaça.</string>
+    <string name="batida_desc">Coquetel cremoso preparado com morango batido, vodka e gelo.</string>
+    <string name="vinho_desc">Bebida de sabor encorpado e aroma marcante, geralmente servida em taça.</string>
+
+    <!-- SOBREMESAS ACTIVITY -->
+    <string name="sobremesa">Selecione sua sobremesa!</string>
+    <string name="sorvete_chocolate">Sorvete de Chocolate</string>
+    <string name="sorvete_morango">Sorvete de Morango</string>
+    <string name="sorvete_baunilha">Sorvete de Baunilha</string>
+    <string name="sorvete_napolitano">Sorvete Napolitano</string>
+    <string name="sundae_chocolate">Sundae de Chocolate</string>
+    <string name="brownie">Brownie de Chocolate</string>
+    <string name="mousse_chocolate">Mousse de Chocolate</string>
+    <string name="chocolate_quente">Chocolate Quente</string>
+    <string name="trufa_chocolate">Trufa de Chocolate</string>
+    <string name="bombom_chocolate">Bombom de Chocolate</string>
+    <string name="sorvete_chocolate_desc">Sorvete cremoso com sabor intenso de chocolate, servido bem gelado.</string>
+    <string name="sorvete_morango_desc">Sorvete suave e refrescante preparado com sabor de morango.</string>
+    <string name="sorvete_baunilha_desc">Sorvete clássico de sabor delicado e textura cremosa.</string>
+    <string name="sorvete_napolitano_desc">Combinação de sorvete de chocolate, morango e baunilha em uma única porção.</string>
+    <string name="sundae_chocolate_desc">Sorvete coberto com calda de chocolate e finalizado com toppings.</string>
+    <string name="brownie_desc">Bolo de chocolate denso e macio, com sabor intenso de cacau.</string>
+    <string name="mousse_chocolate_desc">Sobremesa leve e aerada preparada com chocolate cremoso.</string>
+    <string name="chocolate_quente_desc">Bebida cremosa de chocolate servida quente e reconfortante.</string>
+    <string name="trufa_chocolate_desc">Doce macio feito com chocolate e recheio cremoso de cacau.</string>
+    <string name="bombom_chocolate_desc">Chocolate recheado com creme doce ou ganache.</string>
+
+
     <!-- STRINGS GLOBAIS -->
+    <string name="exemplo">0</string>
     <string name="adicionar">+</string>
     <string name="remover">-</string>
     <string name="proximo">Próximo</string>
